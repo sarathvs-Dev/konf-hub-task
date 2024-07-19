@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Free Ticket",
+      "description": "This is a ticket description. This is a free ticket. This ticket is uncategorised.",
+      "location": "KonfHub Technologies, Nagavarapalya, C V Raman Nagar, Bengaluru,Karnataka, India.",
+      "map_address":"https://www.google.com/maps/search/?api=1&query=KonfHub+Technologies,+Nagavarapalya,+C+V+Raman+Nagar,+Bengaluru,+Karnataka,+India",
+      "date": "Available Till: 31st Aug 2034, 06:00 PM IST",
+      "ticket_type":"FREE"
+    },
+    {
+      "id": 2,
+      "title": "Paid  Ticket",
+      "description": "This is a ticket description. This is a paid ticket. This ticket is uncategorised.",
+      "location": "KonfHub Technologies, Nagavarapalya, C V Raman Nagar, Bengaluru,Karnataka, India.",
+      "map_address":"https://www.google.com/maps/search/?api=1&query=KonfHub+Technologies,+Nagavarapalya,+C+V+Raman+Nagar,+Bengaluru,+Karnataka,+India",
+      "date": "Available Till: 31st Aug 2034, 06:00 PM IST",
+      "ticket_type":"₹1,000"
+    },
+    {
+      "id": 3,
+      "title": "Donation  Ticket",
+      "description": "This is a ticket description. This is a donation ticket. This ticket is uncategorised.",
+      "location": "KonfHub Technologies, Nagavarapalya, C V Raman Nagar, Bengaluru,Karnataka, India.",
+      "map_address":"https://www.google.com/maps/search/?api=1&query=KonfHub+Technologies,+Nagavarapalya,+C+V+Raman+Nagar,+Bengaluru,+Karnataka,+India",
+      "date": "Available Till: 31st Aug 2034, 06:00 PM IST",
+      "ticket_type":"Min ₹10 - Max ₹1,000"
+    }, {
+        "id": 4,
+        "title": "Ticket With Coupon",
+        "description": "This is a ticket description. This is a paid ticket. This ticket is uncategorised. This ticket also has a coupon. Buy minimum - 1 and maximum - 1000000 and avail 10% off.",
+        "location": "KonfHub Technologies, Nagavarapalya, C V Raman Nagar, Bengaluru,Karnataka, India.",
+        "map_address":"https://www.google.com/maps/search/?api=1&query=KonfHub+Technologies,+Nagavarapalya,+C+V+Raman+Nagar,+Bengaluru,+Karnataka,+India",
+        "date": "Available Till: 31st Aug 2034, 06:00 PM IST",
+        "ticket_type":"Min ₹10 - Max ₹1,000"
+      }
+  ]
+  
