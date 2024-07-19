@@ -1,0 +1,53 @@
+[{
+    "id":1,
+    "title":"This is a category",
+    "description":"This is category description. This category is collapsed by default.",
+     "tickets":[
+        {
+            "id": 1,
+            "title": "Free Ticket in Category1",
+            "description": "This is a ticket description. This is a free ticket. This ticket is categorized",
+            "location": "",
+            "map_address":"",
+            "date": "Available Till: 31st Aug 2034, 06:00 PM IST",
+            "ticket_type":"FREE"
+          },
+          {
+            "id": 2,
+            "title": "Paid Ticket in Category1",
+            "description": "This is a ticket description. This is a paid ticket. This ticket is categorised.",
+            "location": "KonfHub Technologies, Nagavarapalya, C V Raman Nagar, Bengaluru,Karnataka, India.",
+            "map_address":"https://www.google.com/maps/search/?api=1&query=KonfHub+Technologies,+Nagavarapalya,+C+V+Raman+Nagar,+Bengaluru,+Karnataka,+India",
+            "date": "Available Till: 31st Aug 2034, 06:00 PM IST",
+            "ticket_type":"₹1,000"
+          }
+     ]
+
+},
+{
+    "id":2,
+    "title":"This is also a category. But with a little longer name. Also note, this category expanded by default.",
+    "description":"This is category description. This category is expanded by default. This is a little longer description. Adding more content to make the description look longer. Adding more content to make the description look longer. Adding more content to make the description look longer. Adding more content to make the description look longer. Adding more content to make the description look longer. Adding more content to make the description look longer.",
+     "tickets":[
+        {
+            "id": 1,
+            "title": "Free Ticket in Category2",
+            "description": "This is a ticket description. This is a free ticket. This ticket is categorised",
+            "location": "KonfHub Technologies, Nagavarapalya, C V Raman Nagar, Bengaluru,Karnataka, India.",
+            "map_address":"https://www.google.com/maps/search/?api=1&query=KonfHub+Technologies,+Nagavarapalya,+C+V+Raman+Nagar,+Bengaluru,+Karnataka,+India",
+            "date": "Available Till: 31st Aug 2034, 06:00 PM IST",
+            "ticket_type":"FREE"
+          },
+          {
+            "id": 2,
+            "title": "Paid Ticket in Category2",
+            "description": "This is a ticket description. This is a paid ticket. This ticket is categorised",
+            "location": "KonfHub Technologies, Nagavarapalya, C V Raman Nagar, Bengaluru,Karnataka, India.",
+            "map_address":"https://www.google.com/maps/search/?api=1&query=KonfHub+Technologies,+Nagavarapalya,+C+V+Raman+Nagar,+Bengaluru,+Karnataka,+India",
+            "date": "Available Till: 31st Aug 2034, 06:00 PM IST",
+            "ticket_type":"₹1,000"
+          }
+     ]
+
+}
+]
