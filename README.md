@@ -1,10 +1,10 @@
 # konf-hub-task
-<!-- install node modules -->
+install node modules
 npm i 
  or
 npm install
 
-<!-- Run Code -->
+Run Code
 
 npm run start
 
